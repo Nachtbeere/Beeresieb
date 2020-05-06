@@ -1,4 +1,6 @@
 # Beeresieb
+[![travis.ci](https://api.travis-ci.com/Nachtbeere/Beeresieb.svg?branch=master)](https://travis-ci.com/github/Nachtbeere/Beeresieb)
+
 A Minecraft uuid-base whitelist system for Custom REST API
 
 ## Features
