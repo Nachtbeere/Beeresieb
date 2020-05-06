@@ -1,0 +1,13 @@
+deadman_switch_allow_all: true
+allow_failsafe: false
+request_timeout: 3000
+baseurl: ""
+auth_path: "/verify/"
+failsafe_url: ""
+failsafe_auth_path: "/verify/"
+messages:
+  kick_log: ${USERNAME} does not exist on the whitelist. connection refused.
+  denial_log: ${USERNAME} has not yet activated their account. connection refused.
+  accept_log: ${USERNAME} is on whitelist. connection accepted.
+  kick_message: "You are not registered.\n Please try again after registration."
+  denial_message: "You are not activated yet.\n Please activate your account. (verify your e-mail first)"

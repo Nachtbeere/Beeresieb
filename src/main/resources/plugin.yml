@@ -1,0 +1,7 @@
+version: "1.0-SNAPSHOT"
+api-version: "1.15"
+name: "beeresieb"
+main: "net.nachtbeere.minecraft.beeresieb.Beeresieb"
+description: "A Minecraft uuid-base whitelist system for Custom REST API"
+author: "Mirai Kim(github: noxowl)"
+website: "https://github.com/Nachtbeere/Beeresieb"
