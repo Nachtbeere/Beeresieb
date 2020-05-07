@@ -4,8 +4,6 @@
 A Minecraft uuid-base whitelist system for Custom REST API
 
 ## Features
-* Works with AsyncPlayerPreLoginEvent
-    * It doesn't block your main server thread
 * Main API and Failsafe API supported
 * Dead man's switch function
     * If main and failsafe api all dead, plugin do allow/deny arbitrarily by config
