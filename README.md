@@ -1,5 +1,5 @@
 # Beeresieb
-[![travis.ci](https://api.travis-ci.com/Nachtbeere/Beeresieb.svg?branch=master)](https://travis-ci.com/github/Nachtbeere/Beeresieb)
+> ⚠️ This project is no longer maintained. It has been archived for historical reference.
 
 A Minecraft uuid-base whitelist system for Custom REST API
 
